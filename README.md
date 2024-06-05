@@ -2,5 +2,5 @@
 
 This Tool is skidded by @addifrr on discord
 Shitzz is selling this tool pack for $4.99 so why not have this for free? :)
-(added a free nitro redeemer too cuz why not)
-the nitro redeemer is patched will come with a new one tmrw dont worry!
+
+The nitro redeemer in this pack is not working please go to https://github.com/daddiaddi/Redeemer for the new one!

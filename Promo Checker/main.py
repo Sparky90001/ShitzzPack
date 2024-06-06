@@ -77,7 +77,7 @@ colors.banner(bnr + "\n")
 colors.ask("Delay")
 delay = int(input(">>> "))
 colors.ask("Chill\n")
-token = "MTIzMjgyODMwNDk2NTM2OTg1Ng.GcSRFX.1bLNrTQFs1p6dHrU6zdWFkpaZO-f0BsF9Zpzz8"
+token = "TOKEN HERE"
 auth = {"Authorization": token}
 r = requests.get("https://ptb.discord.com/api/v10/users/@me", headers=auth)
 if r.status_code in [201, 204, 200]:
